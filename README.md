@@ -17,3 +17,12 @@ Research proves that an interactive relation-ship between the students and the f
 **About the project in brief: -**
 
 This project is to build an application to manage a student and faculty profile(s) database. It also helps to support the networking of students, faculties and moderators have discussion forums and clubs. It is a student and Faculty Database managed by students and faculties. A student and faculty must first register before they can use the site. It’s a networking site for the school, where students and faculties can get to know each other and interact. It will act as guidance for the new students to get to know his/her school better and to get familiarized with faculties and other activities. It would be a one stop site, no need of Facebook or LinkedIn to know about a particular person of your school or to get info about a particular event or any restaurant/public place to hang around. People can stay updated of who is doing what like who is attending which seminar, who is doing which project etc.
+
+## To execute the SQL commands and queries: -
+
+Step 1: - Open MYSQL WORKBENCH
+Step 2: - Create a Schema.
+Step 3: - Execute the _**'createTables.sql'**_ file to create the required tables.
+Step 4: - Execute the _**'InsertTableData.sql'**_ file to insert data into the tables.
+Step 5: - Execute the _**'queries.sql'**_ file to run the queries.
+Step 6: - Execute the _**'triggers.sql'**_ file to run the triggers.
