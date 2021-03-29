@@ -20,9 +20,9 @@ This project is to build an application to manage a student and faculty profile(
 
 ## To execute the SQL commands and queries: -
 
-Step 1: - Open MYSQL WORKBENCH
-Step 2: - Create a Schema.
-Step 3: - Execute the _**'createTables.sql'**_ file to create the required tables.
-Step 4: - Execute the _**'InsertTableData.sql'**_ file to insert data into the tables.
-Step 5: - Execute the _**'queries.sql'**_ file to run the queries.
-Step 6: - Execute the _**'triggers.sql'**_ file to run the triggers.
+1. Open MYSQL WORKBENCH
+2. Create a Schema.
+3. Execute the _**'createTables.sql'**_ file to create the required tables.
+4. Execute the _**'InsertTableData.sql'**_ file to insert data into the tables.
+5. Execute the _**'queries.sql'**_ file to run the queries.
+6. Execute the _**'triggers.sql'**_ file to run the triggers.
