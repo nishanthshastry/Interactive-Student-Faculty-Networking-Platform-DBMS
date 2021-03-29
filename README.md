@@ -1,6 +1,6 @@
 # Interactive-Student-Faculty-Networking-Platform-DBMS
 
-As the project name “Interactive Student Faculty Networking Platform”, the idea was to have a platform where the students and the faculty of a particular institution could interact with each other through different events, where any student or faculty can be part of various group any student or faculty can be part of various groups and clubs of their interest.
+As the project name _**“Interactive Student Faculty Networking Platform”**_, the idea was to have a platform where the students and the faculty of a particular institution could interact with each other through different events, where any student or faculty can be part of various group any student or faculty can be part of various groups and clubs of their interest.
 
 Research proves that an interactive relation-ship between the students and the faculty results in the benefit of growth in the student's ability to converse as well as to understand any topic being discussed in a deep way and also helps the students to exercise their brains to find many solutions to many computational issues.
 
